@@ -12,6 +12,7 @@ public class Ajio {
 	  driver.get("https://www.ajio.com/");
 	  Reporter.log("Opening Ajio", true);
 	  System.out.println("hbscjhcbj");
+	  System.out.println("kljdsifjweof");
 	  driver.quit();
   }
 }
