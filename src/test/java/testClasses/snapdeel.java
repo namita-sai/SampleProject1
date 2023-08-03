@@ -11,7 +11,7 @@ public class snapdeel {
 	  WebDriver driver = new EdgeDriver();
 	  driver.get("https://www.snapdeal.com/");
 	  driver.manage().window().maximize();
-	  Thread.sleep(2000);
+	  Thread.sleep(3000);
 	  driver.close();
   }
 }
